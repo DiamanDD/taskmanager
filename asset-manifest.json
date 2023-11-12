@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/social-network/taskmanager/static/css/main.d2dcf8c9.css",
-    "main.js": "/social-network/taskmanager/static/js/main.1d0f4e3e.js",
-    "static/js/787.70912f31.chunk.js": "/social-network/taskmanager/static/js/787.70912f31.chunk.js",
-    "static/media/pluse.svg": "/social-network/taskmanager/static/media/pluse.969944f4b1feef692902fda64d1410e2.svg",
-    "index.html": "/social-network/taskmanager/index.html",
-    "main.d2dcf8c9.css.map": "/social-network/taskmanager/static/css/main.d2dcf8c9.css.map",
-    "main.1d0f4e3e.js.map": "/social-network/taskmanager/static/js/main.1d0f4e3e.js.map",
-    "787.70912f31.chunk.js.map": "/social-network/taskmanager/static/js/787.70912f31.chunk.js.map"
+    "main.css": "/taskmanager/static/css/main.d2dcf8c9.css",
+    "main.js": "/taskmanager/static/js/main.6f7c81e5.js",
+    "static/js/787.70912f31.chunk.js": "/taskmanager/static/js/787.70912f31.chunk.js",
+    "static/media/pluse.svg": "/taskmanager/static/media/pluse.969944f4b1feef692902fda64d1410e2.svg",
+    "index.html": "/taskmanager/index.html",
+    "main.d2dcf8c9.css.map": "/taskmanager/static/css/main.d2dcf8c9.css.map",
+    "main.6f7c81e5.js.map": "/taskmanager/static/js/main.6f7c81e5.js.map",
+    "787.70912f31.chunk.js.map": "/taskmanager/static/js/787.70912f31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2dcf8c9.css",
-    "static/js/main.1d0f4e3e.js"
+    "static/js/main.6f7c81e5.js"
   ]
 }
